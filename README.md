@@ -1,9 +1,22 @@
 # android-common-project
 Android项目通用架构搭建
 
-1.技术选型与架构
+已完成
 
-2.封装BaseActivity、BaseFragment
+1.封装BaseActivity、BaseFragment
 
-3.封装网络请求库
+#### TODO:
 
+2.技术选型与架构
+
+3.封装网络请求库（代码待整理）已发布文章，点击前往
+
+4.封装社会化组件（微信登录、支付、分享等）
+
+5.模块化与组件化
+
+6.常用的控件
+
+7.常用的工具类
+
+8.……
